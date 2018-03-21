@@ -1,0 +1,9 @@
+{
+  "name": "todo-routing",
+  "version": "1.0.0",
+  "description": "A demo app to compare different client-side routing solutions (Angular, React, Stencil, et al)",
+  "repository": "git+https://github.com/vlukashov/todo-routing.git",
+  "main": "index.js",
+  "author": "Viktor Lukashov <viktor@vaadin.com>",
+  "license": "MIT"
+}
